@@ -1,8 +1,6 @@
 {
-  "name": "Grocy custom component",
+  "name": "Grocy custom component (margau fork)",
   "render_readme": true,
-  "zip_release": true,
-  "hide_default_branch": true,
   "homeassistant": "2021.12.0",
   "filename": "grocy.zip"
 }
